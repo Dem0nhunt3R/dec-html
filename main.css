@@ -5,3 +5,12 @@ img{
 h1{
     text-align: center;
 }
+
+h3{
+    background-color: chartreuse;
+    width: 300px;
+}
+
+p{
+    width: 300px;
+}
