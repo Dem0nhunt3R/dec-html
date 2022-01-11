@@ -1,7 +1,13 @@
-img{
-    width: 300px;
-}
-
 h1{
     text-align: center;
 }
+
+p{
+    display: block;
+    padding-left: 15px;
+    width: 600px;
+    border-left: 3px solid black;
+}
+
+
+
