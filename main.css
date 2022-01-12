@@ -1,0 +1,42 @@
+.d-1 {
+    background-color: gainsboro;
+    display: block;
+    width: 300px;
+    height: 450px;
+}
+
+.d-1 > div {
+    padding-top: 18px;
+    padding-left: 18px;
+    background-color: gold;
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+    box-sizing: border-box;
+}
+
+.a {
+    box-shadow: 10px 10px;
+}
+
+.b {
+    box-shadow: 10px 10px 5px;
+}
+
+.c {
+    box-shadow: 10px 10px 7px 3px;
+}
+
+.d {
+    box-shadow: 10px 10px 5px 1px grey;
+}
+
+.e {
+    border-radius: 5px;
+    box-shadow: 10px 10px 5px;
+}
+
+.f {
+    border-radius: 5px;
+    box-shadow: 8px 8px 5px 3px grey;
+}

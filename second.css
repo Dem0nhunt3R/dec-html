@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    background-color: brown;
+    text-align: center;
+    color: white;
+}
+
+.p-1 {
+    background-color: grey;
+    margin-bottom: 0;
+    height: 100px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.d-1 {
+    background-color: cadetblue;
+    height: 100px;box-sizing: border-box;
+    padding:  20px 0 20px 0;
+}
+
+.d-2 {
+    height: 300px;
+    width: 300px;
+    background-color: green;
+}
+
+.d-3 {
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+    background-color: slateblue;
+}
+
+img{
+    width:800px;
+}
