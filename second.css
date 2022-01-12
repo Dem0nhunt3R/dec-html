@@ -1,0 +1,20 @@
+div{
+    margin-left: 100px;
+}
+
+.d-2{
+    margin-top: 100px;
+    border-left: 3px solid red;
+}
+
+p{
+    margin-left: 20px;
+}
+
+.d-1{
+    margin-top: 150px;
+    width: 500px;
+    height: 350px;
+    background-color: grey;
+    box-shadow: -10px -30px 20px 10px sandybrown ;
+}
