@@ -1,0 +1,38 @@
+#header {
+    height: 150px;
+    background-color: yellow;
+}
+
+#footer {
+    background-color: moccasin;
+    height: 150px;
+}
+
+#menu {
+    height: 500px;
+    width: 20%;
+    background-color: chartreuse;
+}
+#posts-box{
+    margin-left: 20px;
+    height: 500px;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.post {
+    height: 48%;
+    background-color: aquamarine;
+}
+
+.mt15{
+    margin-top: 15px;
+}
+
+#middle {
+    display: flex;
+    margin: 20px 0;
+}
+

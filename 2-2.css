@@ -1,0 +1,40 @@
+#d-1 {
+    height: 300px;
+    background-color: blue;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+#d-2 {
+    height: 300px;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 0;
+
+}
+
+#d-2 > div {
+    background-color: blue;
+    width: 30%;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    display: flex;
+    color: white;
+}
+
+#d-3{
+    background-color: blue;
+    color: white;
+    height: 500px;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
