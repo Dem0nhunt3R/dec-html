@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+
+.cards-box{
+    display: flex;
+    justify-content: space-evenly;
+    width: 1000px;
+    margin: 50px auto;
+}
+.icon{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 15px;
+}
+.cards-box h3, p{
+    text-align: center;
+}
+
+.cards-box>div{
+    width: 200px;
+    height: 350px;
+    box-shadow: grey 3px 3px 5px;
+}
+
+.button{
+    margin: 50px auto;
+    background-color: aqua;
+    color: white;
+    width: 90px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}

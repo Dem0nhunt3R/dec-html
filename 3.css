@@ -1,0 +1,54 @@
+.box{
+    min-height: 920px;
+    width: 98%;
+    border:  3px solid black;
+    border-radius: 5px;
+}
+
+.a-1{
+    height: 250px;
+    background-color: grey;
+    border: 2px solid white;
+}
+
+.a-2{
+    display: flex;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    border-bottom: 2px solid white;
+
+}
+
+.b-1{
+    height: 670px;
+    width: 85%;
+    border-bottom: 2px solid white;
+}
+
+.b-2{
+    height: 672px;
+    width: 15%;
+    background-color: grey;
+    border-left: 2px solid white;
+
+}
+
+.c-1{
+    width: 100%;
+    background-color: grey;
+    height: 50%;
+    border-bottom: 2px solid white;
+    border-right: 2px solid white;
+}
+
+.c-2{
+    display: flex;
+    height: 50%;
+    justify-content: space-between;
+}
+
+.d{
+    width: 33.2%;
+    height: 100%;
+    background-color: grey;
+}
