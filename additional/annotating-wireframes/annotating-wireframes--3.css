@@ -1,0 +1,141 @@
+body>div{
+    display: flex;
+    justify-content: center;
+}
+.menu{
+    margin-left: 50px;
+    width: 150px;
+    height: 315px;
+    border-top: 5px dashed black;
+    border-left: 5px dashed black;
+    border-bottom: 5px dashed black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.menu>div{
+    background-color: grey;
+    height: 8%;
+    width: 80%;
+}
+
+.menu--div{
+    margin: 5px;
+}
+
+.menu--div-1{
+    margin:10px 0 64px 0;
+}
+.box{
+    width: 800px;
+    min-height: 1000px;
+    border: 5px solid black;
+}
+
+.box--div-1{
+    height: 100px;
+    border-bottom: 5px solid black;
+}
+
+.box--div-1--1{
+    margin: 10px auto;
+    height: 40%;
+    width: 25%;
+    background-color: grey;
+}
+
+.box--div-1--2{
+    margin: 10px auto;
+    height: 40%;
+    width: 95%;
+    background-color: grey;
+}
+
+.box--div-3>div{
+    background-color: grey;
+    height: 90%;
+    width: 95%;
+}
+
+.box--div-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 5px solid black;
+    height: 200px;
+}
+
+.box--div-4{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    border-bottom: 5px solid black;
+    height: 300px;
+}
+
+.box--div-4>div{
+    width: 45%;
+    height: 40%;
+    background-color: grey;
+    margin: 10px auto;
+}
+
+.box--div-5{
+    display: flex;
+    border-bottom: 5px solid black;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    height: 400px;
+}
+
+.box--div-5--1{
+    width: 95%;
+    background-color: grey;
+    height: 8%;
+}
+
+.box--div-5--2{
+    width: 20%;
+    background-color: grey;
+    height: 5%;
+}
+.box--div-6{
+    display: flex;
+    height: 300px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.box--div-6--1{
+    width: 95%;
+    background-color: grey;
+    height: 15%;
+}
+.box--div-6--last{
+    width: 95%;
+    background-color: grey;
+    height: 35%;
+}
+
+.box--div-7{
+    height: 120px;
+    border-top: 5px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+
+.box--div-7--1{
+    height: 40%;
+    background-color: grey;
+    width: 95%;
+}
+
+.box--div-7--2{
+    height: 40%;
+    background-color: grey;
+    width: 33%;
+}
