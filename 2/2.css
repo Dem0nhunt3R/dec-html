@@ -1,0 +1,36 @@
+.h200{
+    height: 200px;
+}
+.h150{
+    height: 150px;
+}
+.h600{
+    height: 600px;
+}
+.w85{
+    width: 85%;
+}
+.w15{
+    width: 15%;
+}
+.flex{
+    display: flex;
+}
+.brd-l{
+    border-left: 2px solid lightblue;
+}
+.brd-b{
+    border-bottom: 2px solid lightblue;
+}
+.bkgd-clr-bl{
+    background-color: blue;
+}
+.bkgd-clr-lbl{
+    background-color: lightblue;
+}
+.bkgd-clr-dbl{
+    background-color: darkblue;
+}
+.bkgd-cl-mppl{
+    background-color: mediumpurple;
+}

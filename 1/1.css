@@ -1,0 +1,27 @@
+.brdr-gr{
+    border: 5px solid grey;
+}
+.h300{
+    height: 300px;
+}
+.h600{
+    height: 600px;
+}
+.brdr-rd40{
+    border-radius: 40px;
+}
+.brdr{
+    border: 10px solid white;
+}
+.w80{
+    width: 80%;
+}
+.w20{
+    width: 20%;
+}
+.bk-cr{
+    background-color: lightgrey;
+}
+.flex{
+    display: flex;
+}
