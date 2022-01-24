@@ -1,0 +1,40 @@
+.brdr {
+    border: 5px solid grey;
+    border-radius: 10px;
+}
+.h900 {
+    min-height: 900px;
+}
+.h300 {
+    height: 300px;
+}
+.w1200 {
+    width: 1200px;
+}
+.w300 {
+    width: 300px;
+}
+.w540{
+    width: 540px;
+}
+.p10{
+    padding: 10px;
+}
+.bckgrng-clr-lgr{
+    background-color: lightgrey;
+}
+.brdr-b{
+    border-bottom: 10px solid white;
+}
+.brdr-r{
+    border-right: 10px solid white;
+}
+.flex{
+    display: flex;
+}
+.fl-wr{
+    flex-wrap: wrap;
+}
+.m{
+    margin: 20px auto;
+}

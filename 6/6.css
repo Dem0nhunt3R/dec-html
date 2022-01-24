@@ -1,0 +1,29 @@
+.container{
+    margin: 10px auto;
+    width: 600px;
+    height: 1000px;
+}
+.flex{
+    display: flex;
+}
+.bckgrng-clr-bl{
+    background-color: blue;
+}
+.homout{
+    width: 300px;
+    height: 400px;
+}
+.brd-lt{
+    border-left: 20px solid white;
+}
+.brdr-bm{
+    border-bottom: 20px solid white;
+}
+.h250{
+    height: 250px;
+}
+.s-b-s-kabobs{
+    width: 200px;
+    height: 300px;
+    background-color: darkblue;
+}

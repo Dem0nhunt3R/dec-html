@@ -1,0 +1,51 @@
+.bckgrng-clr-gr{
+    background-color: grey;
+}
+.bckgrng-clr-lgr{
+    background-color: lightgrey;
+}
+.brdr-btm{
+    border-bottom: 10px solid white;
+}
+.brdr-r{
+    border-right: 10px solid white;
+}
+.h900{
+    min-height: 900px;
+}
+.h600{
+    height: 600px;
+}
+.h610{
+    height: 610px;
+}
+.h300{
+    height: 300px;
+}
+.brdr-gr{
+    border: 5px solid grey;
+}
+.brdr-rd{
+    border-radius: 10px;
+}
+.w900{
+    width: 900px;
+}
+.w920{
+    width: 920px;
+}
+.w300{
+    width: 300px;
+}
+.flex{
+    display: flex;
+}
+.w1200{
+    width: 1200px;
+}
+.flwr{
+    flex-wrap: wrap;
+}
+.p10{
+    padding: 10px;
+}
