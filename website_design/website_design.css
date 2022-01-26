@@ -73,4 +73,11 @@
 }
 .footer{
     height: 150px;
+    position: relative;
+    top: -210px;
+}
+.store-and-tools{
+    position: relative;
+    width: 350px;
+    bottom: 220px;
 }
