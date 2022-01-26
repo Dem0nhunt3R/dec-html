@@ -1,7 +1,6 @@
 .container{
     width: 2000px;
     margin: auto;
-    height: 1200px;
     border: 5px solid black;
 }
 .page-item {
@@ -36,23 +35,14 @@
 .header{
     width: 1650px;
 }
-.w340{
-    width: 340px;
-}
 .w350{
     width: 350px;
 }
 .w1300{
     width: 1300px;
 }
-.w1290{
-    width: 1290px;
-}
 .w1650{
     width: 1650px;
-}
-.w1700{
-    width: 1700px;
 }
 .nav{
     height: 670px;
@@ -71,4 +61,16 @@
 }
 .fl-wr{
     flex-wrap: wrap;
+}
+.w65{
+    width: 65%;
+}
+.w35{
+    width: 34.3%;
+}
+.mt20{
+    margin-top: 20px;
+}
+.footer{
+    height: 150px;
 }
