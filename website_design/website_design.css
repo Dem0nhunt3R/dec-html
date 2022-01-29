@@ -1,7 +1,7 @@
 .container{
     width: 2000px;
     margin: auto;
-    border: 5px solid black;
+    height: 1180px;
 }
 .page-item {
     background-color: grey;
